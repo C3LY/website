@@ -14,6 +14,5 @@ cd ..
 git add *
 git status
 
-hi
 **git commit -m "Add index"**
 **git push**
